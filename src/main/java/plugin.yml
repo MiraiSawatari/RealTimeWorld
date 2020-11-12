@@ -1,0 +1,5 @@
+name: RealTimeWorld
+version: 1.0
+main: remi.realtimeworld.RealTimeWorld
+api-version: 1.13
+description: Sync Worldtime To Japantime

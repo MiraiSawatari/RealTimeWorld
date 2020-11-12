@@ -1,0 +1,9 @@
+#IgnoreWorlds: World1,World2,World3...
+IgnoreWorlds:
+#Interval 何Tickに一回同期するかどうか
+Interval: 60
+TimeZone: "Asia/Tokyo"
+
+TimeOnTab: true
+msg: "§a%year%§7/§a%month%§7/§a%day% §a%hour%§7:§a%min%"
+
